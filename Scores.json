@@ -1,0 +1,100 @@
+{
+  "aim_easy": [
+    {
+      "name": "AAA",
+      "score": 3
+    },
+    {
+      "name": "AAA",
+      "score": 0
+    },
+    {
+      "name": "ABA",
+      "score": 0
+    },
+    {
+      "name": "ABA",
+      "score": 0
+    },
+    {
+      "name": "ABA",
+      "score": 0
+    },
+    {
+      "name": "AAA",
+      "score": 0
+    }
+  ],
+  "aim_hard": [
+    {
+      "name": "AAA",
+      "score": 12
+    },
+    {
+      "name": "AAC",
+      "score": 7
+    },
+    {
+      "name": "TBA",
+      "score": 6
+    },
+    {
+      "name": "AAA",
+      "score": 4
+    },
+    {
+      "name": "AAA",
+      "score": 0
+    },
+    {
+      "name": "ABA",
+      "score": 0
+    }
+  ],
+  "simon": [
+    {
+      "name": "YAZ",
+      "score": 4
+    },
+    {
+      "name": "AAA",
+      "score": 3
+    },
+    {
+      "name": "XBZ",
+      "score": 3
+    },
+    {
+      "name": "AAA",
+      "score": 2
+    },
+    {
+      "name": "AAA",
+      "score": 2
+    },
+    {
+      "name": "AAA",
+      "score": 2
+    },
+    {
+      "name": "ECC",
+      "score": 1
+    },
+    {
+      "name": "AAA",
+      "score": 1
+    },
+    {
+      "name": "ZCA",
+      "score": 1
+    },
+    {
+      "name": "AAA",
+      "score": 1
+    },
+    {
+      "name": "AAA",
+      "score": 0
+    }
+  ]
+}
