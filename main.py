@@ -35,7 +35,7 @@ SIMON_COLOURS = {
 
 # ── pygame setup ──────────────────────────────────────────────────────────────
 pygame.init()
-screen = pygame.display.set_mode((WIDTH, HEIGHT), display=1)
+screen = pygame.display.set_mode((WIDTH, HEIGHT), display=0)
 pygame.display.set_caption("PAC Games!")
 clock = pygame.time.Clock()
 pygame.mouse.set_visible(False)
@@ -138,7 +138,7 @@ def draw_grid(surface):
 
 # ── HOME button  (scaled, bottom-left) ───────────────────────────────────────
 
-_HBW = sx(110); _HBH = sy(34); _HBX = sx(10); _HBY = HEIGHT - sy(60)
+_HBW = sx(110); _HBH = sy(34); _HBX = sx(10); _HBY = HEIGHT - sy(70)
 HOME_BTN_RECT = pygame.Rect(_HBX, _HBY, _HBW, _HBH)
 
 def draw_home_button(surface):
