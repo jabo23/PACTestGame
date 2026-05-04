@@ -6,6 +6,10 @@
     },
     {
       "name": "AAA",
+      "score": 3
+    },
+    {
+      "name": "AAA",
       "score": 0
     },
     {
@@ -35,11 +39,19 @@
       "score": 7
     },
     {
+      "name": "AAA",
+      "score": 7
+    },
+    {
       "name": "TBA",
       "score": 6
     },
     {
       "name": "AAA",
+      "score": 4
+    },
+    {
+      "name": "XXY",
       "score": 4
     },
     {
@@ -62,6 +74,14 @@
     },
     {
       "name": "XBZ",
+      "score": 3
+    },
+    {
+      "name": "AAA",
+      "score": 3
+    },
+    {
+      "name": "AAA",
       "score": 3
     },
     {
